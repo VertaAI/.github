@@ -1,11 +1,12 @@
-## What?
-_A one line summary of the changes in this PR._
-## Why?
-_Provide the context. What is the impact of these changes?_
-## How?
-_What choices or compromises did you make that aren't apparent by reading the code?_
-## Testing?
-_Did you add new integration tests? Did you deploy this to a dev env and actually run the changes?_
-## Screenshots (optional)
-_Mostly relevant for FE changes._
-## Anything Else?
+## Impact and Context
+<!-- Brief description of why these changes are necessary. Don't rewrite the entire Jira ticket. -->
+## Risks
+<!-- Describe any risks. These should be smaller scale than those documented in a design doc. -->
+## Testing
+<!-- Check all that are applicable. Explain why if any are not applicable. -->
+- [ ] Deployed the service to dev env
+- [ ] Used functionality on dev env <!-- Explain. For example, you hit the endpoint via Postman. -->
+- [ ] Added unit test(s)
+- [ ] Added integration test(s)
+## How to Revert
+<!-- List steps required to revert this change. For example, note if we'd need to revert liquibase changes. -->
