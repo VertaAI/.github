@@ -1,15 +1,14 @@
 ## Impact and Context
 <!-- Brief description of why these changes are necessary. Don't rewrite the entire Jira ticket. -->
 
-## Risks
-<!-- Describe any risks. These should be smaller scale than those documented in a design doc. -->
+## Risks and Area of Effect
+<!--
+  Describe both risk (how likely this is to break) and area of effect (how wide potential breakages could reach).
+  These should be smaller scale than those documented in a design doc.
+-->
 
 ## Testing
-<!-- Check all that are applicable. Explain why if any are not applicable. -->
-- [ ] Deployed the service to dev env
-- [ ] Used functionality on dev env <!-- Explain. For example, you hit the endpoint via Postman. -->
-- [ ] Added unit test(s)
-- [ ] Added integration test(s)
+<!-- Explain how this contribution has been tested, e.g. what tests were added and where they have been run. -->
 
 ## How to Revert
 <!-- List steps required to revert this change. For example, note if we'd need to revert liquibase changes. -->
