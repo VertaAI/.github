@@ -1,4 +1,6 @@
-<!-- Title of the PR should comply with [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines. --> 
+<!-- Title of the PR must comply with [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines. --> 
+<!-- Title should start with the JIRA ticket in square brackets. This will automatically link the PR in JIRA. -->
+<!-- Example: "[VUMM-73] fix: Allow creation of groups with no members" -->
 
 ## Impact and Context
 <!-- Brief description of why these changes are necessary. Don't rewrite the entire Jira ticket. -->
