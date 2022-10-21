@@ -1,18 +1,9 @@
-<!-- Title of the PR must comply with [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines. --> 
-<!-- Title should include the JIRA ticket in square brackets after the conventional commit prefix. This will automatically link the PR in JIRA. -->
-<!-- Example: "fix: [JIRA-123] Allow creation of groups with no members" -->
-
-## Impact and Context
-<!-- Brief description of why these changes are necessary. Don't rewrite the entire Jira ticket. -->
-
-## Risks and Area of Effect
-<!--
-  Describe both risk (how likely this is to break) and area of effect (how wide potential breakages could reach).
-  These should be smaller scale than those documented in a design doc.
--->
+<!-- Example Title: "fix: [JIRA-123] Allow creation of groups with no members" -->
 
 ## Testing
-<!-- Explain how this contribution has been tested, e.g. what tests were added and where they have been run. -->
+- [ ] Unit test
+- [ ] Deployed to dev env
+- [ ] Other (explain) 
 
-## How to Revert
-<!-- List steps required to revert this change. For example, note if we'd need to revert liquibase changes. -->
+## Reverting
+- [ ] Contains Migration - _Do Not Revert_
