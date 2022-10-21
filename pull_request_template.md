@@ -1,4 +1,7 @@
 <!-- Example Title: "fix: [JIRA-123] Allow creation of groups with no members" -->
+## Impact and Context
+
+## Risks and Area of Effect
 
 ## Testing
 - [ ] Unit test
